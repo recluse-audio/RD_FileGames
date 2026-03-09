@@ -1,0 +1,29 @@
+{
+  "current_level": "Level 1",
+  "current_scene": "Meeting Jean",
+  "levels":
+  {
+    "Level 1":
+    {
+      "isUnlocked": false,
+      "scenes":
+      {
+        "Meeting Jean":
+        {
+          "isUnlocked": false
+        },
+        "Scene 2":
+        {
+          "isUnlocked": false,
+          "scenes":
+          {
+            "DSP_Book":
+            {
+              "isUnlocked": false
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,1 @@
+Hey there, it's Jean. Jean Argent to be precise. Nice to meet you. I say that only half meaning it. Not that it isn't nice to meet you of course. No, I mean I am not really meeting you right now. I've known you for a long time. And I mean a LONNNG time.
