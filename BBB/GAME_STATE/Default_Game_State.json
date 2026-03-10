@@ -12,20 +12,96 @@
         {
           "isUnlocked": true
         },
-        "Glancing At Books":
+        "First_Password":
         {
-          "isUnlocked": false,
-          "scenes":
-          {
-            "DSP_Book":
-            {
-              "isUnlocked": true
-            },
-            "Scene 2":
-            {
-              "isUnlocked": true
-            }
-          }
+          "isUnlocked": false
+        },
+        "Myra_Info":
+        {
+          "isUnlocked": true
+        },
+        "Zed_Info":
+        {
+          "isUnlocked": true
+        }
+      }
+    },
+    "Lvl_2_Zed":
+    {
+      "isUnlocked": true,
+      "scenes":
+      {
+        "Meet_Zed":
+        {
+          "isUnlocked": false
+        },
+        "Zeds_Face":
+        {
+          "isUnlocked": false
+        }
+      }
+    },
+    "Lvl_3_Myra":
+    {
+      "isUnlocked": true,
+      "scenes":
+      {
+        "Meet_Myra":
+        {
+          "isUnlocked": false
+        },
+        "Myra_Face":
+        {
+          "isUnlocked": false
+        }
+      }
+    },
+    "Lvl_4_Bernie":
+    {
+      "isUnlocked": false,
+      "scenes":
+      {
+        "Meet_Bernie":
+        {
+          "isUnlocked": false
+        },
+        "Bernie_Tells_Truth":
+        {
+          "isUnlocked": false
+        },
+        "Bernie_Face":
+        {
+          "isUnlocked": false
+        }
+      }
+    },
+    "Lvl_5_Cam":
+    {
+      "isUnlocked": true,
+      "scenes":
+      {
+        "Meet_Cam":
+        {
+          "isUnlocked": false
+        },
+        "Cam_Face":
+        {
+          "isUnlocked": false
+        },
+        "Apes_In_Africa":
+        {
+          "isUnlocked": false
+        }
+      }
+    },
+    "Lvl_6_Prono":
+    {
+      "isUnlocked": true,
+      "scenes":
+      {
+        "Meet_Prono":
+        {
+          "isUnlocked": false
         }
       }
     }
