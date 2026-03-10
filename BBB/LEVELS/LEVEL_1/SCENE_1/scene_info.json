@@ -1,5 +1,6 @@
 {
   "name": "Meeting Jean",
   "zones": [],
-  "md": "Meeting_Jean.md"
+  "md": "Meeting_Jean.md",
+  "isUnlocked": true
 }

@@ -5,21 +5,25 @@
   {
     "Level 1":
     {
-      "isUnlocked": false,
+      "isUnlocked": true,
       "scenes":
       {
         "Meeting Jean":
         {
-          "isUnlocked": false
+          "isUnlocked": true
         },
-        "Scene 2":
+        "Glancing At Books":
         {
           "isUnlocked": false,
           "scenes":
           {
             "DSP_Book":
             {
-              "isUnlocked": false
+              "isUnlocked": true
+            },
+            "Scene 2":
+            {
+              "isUnlocked": true
             }
           }
         }
