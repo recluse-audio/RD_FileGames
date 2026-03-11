@@ -1,6 +1,7 @@
 {
-  "name": "Zed_Info",
+  "name": "More_About_Jean",
   "zones": [],
-  "md": "Zed_Info.md",
-  "isUnlocked": true
+  "isUnlocked": false,
+  "password": "nudecuts",
+  "md": "More_About_Jean.md"
 }

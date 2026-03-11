@@ -39,11 +39,11 @@ Mouse and Coca Cola right?"
 
 while he asked me this I could hear the discovery and capture of the first of many victims. It was a mother and her son, a boy maybe 11 years old. He held a shoddy spear with no spearhead affixed yet. His brave and futile attempt to defend his mother, the woman whom he loved the most in the world. He had been fighting imaginary beasts with it only days before, still a child in the world of his mind. Now the boy would face the cruel realities of his farcical fantasy.
 
-The first of the Rhino men pushed his inert spear aside and drove a short hunting knife into the child's stomach. The boy fell to the ground doubled over choking on his own blood and bleeding out slowly. Spending his last glances on watching his mother be raped to death by the massive erect penises of the warlord's servants.
+The first of the Rhino men pushed his useless spear aside and drove a short hunting knife into the child's stomach. The boy fell to the ground doubled over choking on his own blood and bleeding out slowly. Spending his last glances on watching his mother be raped to death by the massive erect penises of the warlord's servants.
 
 "Come, somewhere with less distractions my friend."
 He gestured towards a two tone cream and powder blue Rolls Royce with Ghanian diplomat flags above either headlights. Stenciled on with spray paint on either side door were the words GHANIAN HUMAN CAPITAL EXCHANGE.
 
 I was very concerned for the mud huts I had built the previous day, but he pulled me along into the luxury vehicle. The interior was a shocking relief against the earthy dwellings of the local Tanzanians.
 
-This man told me everything about the history of Ghana and it's favorite industry, slaving. He told me about selling Africans of all kinds to "Brazilians" from Portugal. I don't remember much about this man in specific. Except that his name was Appouh. I do remember however, the power, the force, the hatred, and the tenderness in his eyes. He took my virginity in that Rolls Royce today. I don't know if I'll ever see him again, but I'll be chanting the name Appouh in my mind until I find him again, and once again reach the ultimate climax.
+This man told me everything about the history of Ghana and it's favorite industry, slaving. He told me about selling Africans of all kinds to "Brazilians" from Portugal. I don't remember much about this man in specific. Except that his name was Appouh. I do remember however, the power, the force, the hatred, and the tenderness in his eyes. He took my virginity in that Rolls Royce today. I don't know if I'll ever see him again, but I'll be chanting the name Appouh in my mind until I find him, and once again reach the ultimate climax.

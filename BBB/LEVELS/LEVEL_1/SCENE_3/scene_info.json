@@ -1,7 +1,6 @@
 {
-  "name": "First_Password",
+  "name": "Myra_Info",
   "zones": [],
-  "isUnlocked": false,
-  "password": "password",
-  "md": "First_Password"
+  "md": "Myra_Info",
+  "isUnlocked": true
 }

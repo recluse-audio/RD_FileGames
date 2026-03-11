@@ -1,5 +1,5 @@
 {
   "name": "Level 1",
   "isUnlocked": true,
-  "scenes": [ "Meeting Jean", "First_Password", "Myra_Info", "Zed_Info" ]
+  "scenes": [ "Meeting Jean", "First_Password", "Myra_Info", "Zed_Info", "More_About_Jean", "Jean_Face" ]
 }

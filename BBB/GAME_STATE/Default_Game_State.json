@@ -23,6 +23,14 @@
         "Zed_Info":
         {
           "isUnlocked": true
+        },
+        "More_About_Jean":
+        {
+          "isUnlocked": false
+        },
+        "Jean_Face":
+        {
+          "isUnlocked": false
         }
       }
     },
