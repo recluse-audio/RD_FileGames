@@ -46,6 +46,10 @@
         "Zeds_Face":
         {
           "isUnlocked": false
+        },
+        "Broken_Wrist":
+        {
+          "isUnlocked": false
         }
       }
     },
@@ -59,6 +63,14 @@
           "isUnlocked": false
         },
         "Myra_Face":
+        {
+          "isUnlocked": false
+        },
+        "Me_Myself_And_Myra":
+        {
+          "isUnlocked": false
+        },
+        "Myra_Gets_It":
         {
           "isUnlocked": false
         }
@@ -78,6 +90,10 @@
           "isUnlocked": false
         },
         "Bernie_Face":
+        {
+          "isUnlocked": false
+        },
+        "Myth_and_Monkey":
         {
           "isUnlocked": false
         }
