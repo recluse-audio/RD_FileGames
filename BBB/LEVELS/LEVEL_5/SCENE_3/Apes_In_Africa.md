@@ -98,5 +98,6 @@ This man told me everything about the history of Ghana
  and the tenderness in his eyes. 
  He took my virginity in that Rolls Royce today. 
  I don't know if I'll ever see him again, 
+ 
  but I'll be chanting the name Appouh in my mind until I find him, 
  and once again reach the ultimate climax.

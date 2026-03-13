@@ -1,7 +1,6 @@
 {
-  "name": "First_Password",
+  "name": "Jean_Secret_1",
   "zones": [],
-  "isUnlocked": false,
-  "password": "password",
-  "md": "First_Password"
+  "md": "Jean_Secret_1.md",
+  "isUnlocked": true
 }

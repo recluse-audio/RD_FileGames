@@ -1,5 +1,5 @@
 {
   "name": "Lvl_2_Zed",
   "isUnlocked": true,
-  "scenes": [ "Meet_Zed", "Zeds_Face", "Broken_Wrist" ]
+  "scenes": [ "Meet_Zed_Story", "Zed_Rumor_1", "Zed_Rumor_2", "Zed_Rumor_3", "Zed_Secret_1", "Zed_Secret_2", "Zed_Secret_3" ]
 }

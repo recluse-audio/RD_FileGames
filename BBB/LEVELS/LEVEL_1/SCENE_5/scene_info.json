@@ -1,7 +1,6 @@
 {
-  "name": "More_About_Jean",
+  "name": "Jean_Rumor_1",
   "zones": [],
-  "isUnlocked": false,
-  "password": "nudecuts",
-  "md": "More_About_Jean.md"
+  "md": "Jean_Rumor_1.md",
+  "isUnlocked": true
 }

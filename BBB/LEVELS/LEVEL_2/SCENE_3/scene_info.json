@@ -1,7 +1,6 @@
 {
-  "name": "Broken_Wrist",
+  "name": "Zed_Rumor_2",
   "zones": [],
-  "isUnlocked": false,
-  "password": "skate",
-  "md": "Broken_Wrist.md"
+  "md": "Zed_Rumor_2.md",
+  "isUnlocked": true
 }

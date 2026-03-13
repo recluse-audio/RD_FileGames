@@ -1,7 +1,6 @@
 {
-  "name": "Jean_Face",
+  "name": "Jean_Rumor_2",
   "zones": [],
-  "isUnlocked": false,
-  "password": "bottom",
-  "png": "Jean_Face.png"
+  "md": "Jean_Rumor_2.md",
+  "isUnlocked": true
 }

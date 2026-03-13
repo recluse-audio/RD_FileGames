@@ -1,6 +1,6 @@
 {
   "current_level": "Level 1",
-  "current_scene": "Meeting Jean",
+  "current_scene": "Jean_Rumor_1",
   "levels":
   {
     "Level 1":
@@ -8,29 +8,33 @@
       "isUnlocked": true,
       "scenes":
       {
-        "Meeting Jean":
+        "Jean_Rumor_1":
         {
           "isUnlocked": true
         },
-        "First_Password":
-        {
-          "isUnlocked": false
-        },
-        "Myra_Info":
+        "Jean_Rumor_2":
         {
           "isUnlocked": true
         },
-        "Zed_Info":
+        "Jean_Rumor_3":
         {
           "isUnlocked": true
         },
-        "More_About_Jean":
+        "Jean_Secret_1":
         {
-          "isUnlocked": false
+          "isUnlocked": true
         },
-        "Jean_Face":
+        "Jean_Secret_2":
         {
-          "isUnlocked": false
+          "isUnlocked": true
+        },
+        "Jean_Secret_3":
+        {
+          "isUnlocked": true
+        },
+        "Jean_Story_1":
+        {
+          "isUnlocked": true
         }
       }
     },
@@ -39,17 +43,33 @@
       "isUnlocked": true,
       "scenes":
       {
-        "Meet_Zed":
+        "Meet_Zed_Story":
         {
-          "isUnlocked": false
+          "isUnlocked": true
         },
-        "Zeds_Face":
+        "Zed_Rumor_1":
         {
-          "isUnlocked": false
+          "isUnlocked": true
         },
-        "Broken_Wrist":
+        "Zed_Rumor_2":
         {
-          "isUnlocked": false
+          "isUnlocked": true
+        },
+        "Zed_Rumor_3":
+        {
+          "isUnlocked": true
+        },
+        "Zed_Secret_1":
+        {
+          "isUnlocked": true
+        },
+        "Zed_Secret_2":
+        {
+          "isUnlocked": true
+        },
+        "Zed_Secret_3":
+        {
+          "isUnlocked": true
         }
       }
     },
@@ -58,21 +78,33 @@
       "isUnlocked": true,
       "scenes":
       {
-        "Meet_Myra":
+        "Meet_Myra_Story":
         {
           "isUnlocked": false
         },
-        "Myra_Face":
+        "Myra_Rumor_1":
         {
-          "isUnlocked": false
+          "isUnlocked": true
         },
-        "Me_Myself_And_Myra":
+        "Myra_Rumor_2":
         {
-          "isUnlocked": false
+          "isUnlocked": true
         },
-        "Myra_Gets_It":
+        "Myra_Rumor_3":
         {
-          "isUnlocked": false
+          "isUnlocked": true
+        },
+        "Myra_Secret_1":
+        {
+          "isUnlocked": true
+        },
+        "Myra_Secret_2":
+        {
+          "isUnlocked": true
+        },
+        "Myra_Secret_3":
+        {
+          "isUnlocked": true
         }
       }
     },
@@ -81,19 +113,43 @@
       "isUnlocked": false,
       "scenes":
       {
-        "Meet_Bernie":
+        "Bernie_Face_Story":
         {
           "isUnlocked": false
         },
-        "Bernie_Tells_Truth":
+        "Bernie_Rumor_1":
+        {
+          "isUnlocked": true
+        },
+        "Bernie_Rumor_2":
+        {
+          "isUnlocked": true
+        },
+        "Bernie_Rumor_3":
+        {
+          "isUnlocked": true
+        },
+        "Bernie_Secret_1":
+        {
+          "isUnlocked": true
+        },
+        "Bernie_Secret_2":
+        {
+          "isUnlocked": true
+        },
+        "Bernie_Secret_3":
+        {
+          "isUnlocked": true
+        },
+        "Bernie_Tells_Truth_Story":
         {
           "isUnlocked": false
         },
-        "Bernie_Face":
+        "Meet_Bernie_Story":
         {
           "isUnlocked": false
         },
-        "Myth_and_Monkey":
+        "Myth_and_Monkey_Story":
         {
           "isUnlocked": false
         }
@@ -104,15 +160,39 @@
       "isUnlocked": true,
       "scenes":
       {
-        "Meet_Cam":
+        "Apes_In_Africa_Secret":
         {
           "isUnlocked": false
         },
-        "Cam_Face":
+        "Cam_Face_Story":
         {
           "isUnlocked": false
         },
-        "Apes_In_Africa":
+        "Cam_Rumor_1":
+        {
+          "isUnlocked": true
+        },
+        "Cam_Rumor_2":
+        {
+          "isUnlocked": true
+        },
+        "Cam_Rumor_3":
+        {
+          "isUnlocked": true
+        },
+        "Cam_Secret_1":
+        {
+          "isUnlocked": true
+        },
+        "Cam_Secret_2":
+        {
+          "isUnlocked": true
+        },
+        "Cam_Secret_3":
+        {
+          "isUnlocked": true
+        },
+        "Meet_Cam_Story":
         {
           "isUnlocked": false
         }
@@ -123,9 +203,33 @@
       "isUnlocked": true,
       "scenes":
       {
-        "Meet_Prono":
+        "Meet_Prono_Story":
         {
           "isUnlocked": false
+        },
+        "Prono_Rumor_1":
+        {
+          "isUnlocked": true
+        },
+        "Prono_Rumor_2":
+        {
+          "isUnlocked": true
+        },
+        "Prono_Rumor_3":
+        {
+          "isUnlocked": true
+        },
+        "Prono_Secret_1":
+        {
+          "isUnlocked": true
+        },
+        "Prono_Secret_2":
+        {
+          "isUnlocked": true
+        },
+        "Prono_Secret_3":
+        {
+          "isUnlocked": true
         }
       }
     }

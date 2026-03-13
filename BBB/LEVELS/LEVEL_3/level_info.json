@@ -1,5 +1,5 @@
 {
   "name": "Lvl_3_Myra",
   "isUnlocked": true,
-  "scenes": [ "Meet_Myra", "Myra_Face", "Me_Myself_And_Myra", "Myra_Gets_It" ]
+  "scenes": [ "Meet_Myra_Story", "Myra_Rumor_1", "Myra_Rumor_2", "Myra_Rumor_3", "Myra_Secret_1", "Myra_Secret_2", "Myra_Secret_3" ]
 }

@@ -1,7 +1,6 @@
 {
-  "name": "Zeds_Face",
+  "name": "Zed_Rumor_1",
   "zones": [],
-  "isUnlocked": false,
-  "password": "plant",
-  "png": "ZED.png"
+  "md": "Zed_Rumor_1.md",
+  "isUnlocked": true
 }

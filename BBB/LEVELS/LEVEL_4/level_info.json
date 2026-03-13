@@ -1,5 +1,5 @@
 {
   "name": "Lvl_4_Bernie",
   "isUnlocked": false,
-  "scenes": [ "Meet_Bernie", "Bernie_Tells_Truth", "Bernie_Face", "Myth_and_Monkey" ]
+  "scenes": [ "Bernie_Face_Story", "Bernie_Rumor_1", "Bernie_Rumor_2", "Bernie_Rumor_3", "Bernie_Secret_1", "Bernie_Secret_2", "Bernie_Secret_3", "Bernie_Tells_Truth_Story", "Meet_Bernie_Story", "Myth_and_Monkey_Story" ]
 }

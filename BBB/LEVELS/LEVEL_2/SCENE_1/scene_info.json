@@ -1,7 +1,6 @@
 {
-  "name": "Meet_Zed",
+  "name": "Meet_Zed_Story",
   "zones": [],
-  "isUnlocked": false,
-  "password": "yyz",
+  "isUnlocked": true,
   "md": "Meet_Zed.md"
 }

@@ -1,7 +1,6 @@
 {
-  "name": "Myra_Face",
+  "name": "Myra_Secret_3",
   "zones": [],
-  "isUnlocked": false,
-  "password": "food",
-  "png": "MYRA_FACE.png"
+  "md": "Myra_Secret_3.md",
+  "isUnlocked": true
 }

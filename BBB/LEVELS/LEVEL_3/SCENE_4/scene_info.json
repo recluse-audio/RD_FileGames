@@ -1,7 +1,6 @@
 {
-  "name": "Myra_Gets_It",
+  "name": "Myra_Rumor_2",
   "zones": [],
-  "isUnlocked": false,
-  "password": "slop",
-  "md": "Myra_Gets_It.md"
+  "md": "Myra_Rumor_2.md",
+  "isUnlocked": true
 }

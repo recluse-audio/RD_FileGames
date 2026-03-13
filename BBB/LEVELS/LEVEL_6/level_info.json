@@ -1,5 +1,5 @@
 {
   "name": "Lvl_6_Prono",
   "isUnlocked": true,
-  "scenes": [ "Meet_Prono" ]
+  "scenes": [ "Meet_Prono_Story", "Prono_Rumor_1", "Prono_Rumor_2", "Prono_Rumor_3", "Prono_Secret_1", "Prono_Secret_2", "Prono_Secret_3" ]
 }

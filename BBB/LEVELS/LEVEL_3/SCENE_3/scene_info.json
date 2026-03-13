@@ -1,7 +1,6 @@
 {
-  "name": "Me_Myself_And_Myra",
+  "name": "Myra_Rumor_1",
   "zones": [],
-  "isUnlocked": false,
-  "password": "hippo",
-  "md": "Me_Myself_And_Myra.md"
+  "md": "Myra_Rumor_1.md",
+  "isUnlocked": true
 }

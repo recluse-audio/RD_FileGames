@@ -2,7 +2,7 @@ We don't just have to tell you about ourselves,
 right?
 
 Because I know something fucking serious about 
-Cam.
+Bernie, or Bernard, or whatever.
 
 
 I just think this whole 
